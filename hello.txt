@@ -1,5 +1,6 @@
 Write something well see. 
-Changed someghin
 This is gonna be second commit
 This should be here
 This is fourth line
+this is line 1
+this is line 3
